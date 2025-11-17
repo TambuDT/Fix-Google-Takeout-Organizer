@@ -225,3 +225,4 @@ if __name__ == "__main__":
 
     print("\n🎉 Finito! File organizzati in:")
     print(output_dir)
+    input("\nPremi Invio per uscire...")
